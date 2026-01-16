@@ -246,20 +246,6 @@ tinder-clone/
 
 ---
 
-## 🔮 Future Enhancements
-
-- [ ] User authentication and login system
-- [ ] Match algorithm and mutual like detection
-- [ ] Real-time messaging between matched users
-- [ ] User profile creation and editing
-- [ ] Like/pass history and statistics
-- [ ] Advanced filtering (age, location, interests)
-- [ ] Push notifications for new matches
-- [ ] Image upload functionality
-- [ ] WebSocket integration for real-time updates
-
----
-
 ## 🤝 Contributing
 
 This is a portfolio project, but suggestions and feedback are welcome! Feel free to:
@@ -280,13 +266,12 @@ This project is open source and available for educational purposes.
 
 ## 📬 Contact & Links
 
-**Your Name** - [GitHub Profile](https://github.com/yourusername)
+**Preetham Ravula** - [GitHub Profile](https://github.com/PreethamRavula)
 
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/preethamravula)
+- 📧 Email: preethamsai.ravula@gmail.com
 
-**Project Repository:** [https://github.com/yourusername/tinder-clone](https://github.com/yourusername/tinder-clone)
+**Project Repository:** [https://github.com/PreethamRavula/tinder-clone](https://github.com/PreethamRavula/tinder-clone)
 
 ---
 
