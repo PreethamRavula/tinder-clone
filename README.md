@@ -268,7 +268,7 @@ This project is open source and available for educational purposes.
 
 **Preetham Ravula** - [GitHub Profile](https://github.com/PreethamRavula)
 
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/preethamravula)
+- 💼 LinkedIn: [Preetham Ravula](https://linkedin.com/in/preethamravula)
 - 📧 Email: preethamsai.ravula@gmail.com
 
 **Project Repository:** [https://github.com/PreethamRavula/tinder-clone](https://github.com/PreethamRavula/tinder-clone)
